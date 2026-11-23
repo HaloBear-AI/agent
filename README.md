@@ -28,5 +28,6 @@ Contributions, feedback, and ideas are always welcome.
 | Decor Breakdown | Turns one wedding decor reference into a bilingual visual breakdown board. | [skill-decor-breakdown](https://github.com/HaloBear-AI/skill-decor-breakdown) |
 | Wedding Poster | Creates a paper-textured poster with a hand-drawn vignette and a typewriter title. | [skill-wedding-poster](https://github.com/HaloBear-AI/skill-wedding-poster) |
 | Wedding Sketch Poster | Composes a wedding decor photo at native resolution with a matching watercolor illustration and a one-line title. | [skill-wedding-sketch-poster](https://github.com/HaloBear-AI/skill-wedding-sketch-poster) |
+| Wedding Decor Blueprint Poster (`wedding-decor-blueprint-poster`) | Turns one wedding decor image into a visual setup board with elevation, floor plan, a materials list and setup stages. | [skill-wedding-decor-blueprint-poster](https://github.com/HaloBear-AI/skill-wedding-decor-blueprint-poster) |
 
 Skill repositories use `skill-<name>`. Agent repositories use `agent-<name>`. Repository names use lowercase words separated by hyphens.
