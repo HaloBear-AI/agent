@@ -25,7 +25,7 @@ Contributions, feedback, and ideas are always welcome.
 | Name | What it does | Repository |
 | --- | --- | --- |
 | Wedding Sketch | Turns a wedding decor reference into a hand-drawn design board and a bilingual image prompt. | [skill-wedding-sketch](https://github.com/HaloBear-AI/skill-wedding-sketch) |
-| Decor Breakdown | Turns one wedding decor reference into a bilingual visual breakdown board. | [halobear-skill-decor-breakdown](https://github.com/HaloBear-AI/halobear-skill-decor-breakdown) |
+| Decor Breakdown | Turns one wedding decor reference into a bilingual visual breakdown board. | [skill-decor-breakdown](https://github.com/HaloBear-AI/skill-decor-breakdown) |
 | Wedding Poster | Creates a paper-textured poster with a hand-drawn vignette and a typewriter title. | [skill-wedding-poster](https://github.com/HaloBear-AI/skill-wedding-poster) |
 | Wedding Sketch Poster | Composes a wedding decor photo at native resolution with a matching watercolor illustration and a one-line title. | [skill-wedding-sketch-poster](https://github.com/HaloBear-AI/skill-wedding-sketch-poster) |
 
