@@ -29,5 +29,6 @@ Contributions, feedback, and ideas are always welcome.
 | Wedding Poster | Creates a paper-textured poster with a hand-drawn vignette and a typewriter title. | [skill-wedding-poster](https://github.com/HaloBear-AI/skill-wedding-poster) |
 | Wedding Sketch Poster | Composes a wedding decor photo at native resolution with a matching watercolor illustration and a one-line title. | [skill-wedding-sketch-poster](https://github.com/HaloBear-AI/skill-wedding-sketch-poster) |
 | Wedding Decor Blueprint Poster (`wedding-decor-blueprint-poster`) | Turns one wedding decor image into a visual setup board with elevation, floor plan, a materials list and setup stages. | [skill-wedding-decor-blueprint-poster](https://github.com/HaloBear-AI/skill-wedding-decor-blueprint-poster) |
+| Wedding Travel Colorist（幻熊婚礼旅拍配色师） | Creates wedding and destination-shoot palettes, scene-by-scene color scripts, and image and video prompts. | [skill-wedding-travel-colorist](https://github.com/HaloBear-AI/skill-wedding-travel-colorist) |
 
 Skill repositories use `skill-<name>`. Agent repositories use `agent-<name>`. Repository names use lowercase words separated by hyphens.
